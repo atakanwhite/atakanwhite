@@ -1,4 +1,4 @@
-<img width="300" height="300" src=https://github.com/atakanwhite/atakanwhite/assets/161921062/bfd16f08-0638-4556-808f-7171f97f1ff0)>
+<img width="300" height="300" src=alien-paul-covenant-film-otph4efgw8fq24sz](https://github.com/atakanwhite/atakanwhite/assets/161921062/e90737e3-e851-4bc4-9f9e-d29775b1b95a)>
 
 <h1>Atakan Akbay </h1>
 <h2>Learns Python </h2>
