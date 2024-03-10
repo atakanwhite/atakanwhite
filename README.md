@@ -1,4 +1,5 @@
-<img src=“[URL](https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/Aliens.jpg)” alt=“an alien”> 
+![Aliens](https://github.com/atakanwhite/atakanwhite/assets/161921062/bfd16f08-0638-4556-808f-7171f97f1ff0)
+
 <h1>Atakan Akbay </h1>
 <h2>Learns Python </h2>
 <h3>And uploads his projects here </h3>
